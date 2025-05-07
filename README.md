@@ -1,6 +1,7 @@
-- 👋👀👋 Hi, I’m @cKNUSPeR (the c stands for crunchy)
-- 🌱 I’m currently learning Python as my first language. 
-- 📫 If you want to reach me, just send a pigeon.
+- 👋👀👋 Hi, I’m Jannik (@cKNUSPeR)
+-  I am interested in conecting people from the lab world with easy-to-use software tools.
+- 🌱 I am always intruiged by new programming languages, image recognition and currently also image-to-sound transfer.
+- 📫 If you want to reach me, just send me a pigeon.
 
 <!---
 cKNUSPeR/cKNUSPeR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
